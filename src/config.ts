@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "踏川",
-	bio: "踏川中文-全球排行榜top书影音作品的多维度解析和可迁移价值的实践方法论。",
+	bio: "书影音作品的多维度解析和可迁移价值的实践方法论参考",
 	links: [
 		{
 			name: "Twitter",
