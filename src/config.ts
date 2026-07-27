@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "crunch river",
+	title: "踏川",
 	subtitle: "by reid",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "no use at all",
+			name: "no use at all i told u",
 			url: "https://www.crunchriver.com", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
@@ -54,8 +54,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "crunch river",
-	bio: "crunch river",
+	name: "踏川",
+	bio: "文影音作品的辅助学习参考资料，迭代不止，天地碎裂方休。",
 	links: [
 		{
 			name: "Twitter",
